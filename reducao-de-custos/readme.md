@@ -7,7 +7,7 @@ Empresa: Abstergo Industries
 Responsável: Jonas Souza
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa OnPrimes, realizado por Jonas Souza. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jonas Souza. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -28,7 +28,7 @@ Etapa 3:
 - A empresa precisa de um serviço em que os usuários consigam se conectar a instância EC2 usando HTTPS, mas que não consigam acessar o banco de dados.
 
 ## Conclusão
-A implementação de ferramentas na empresa *OnPrimes tem como esperado a economia com a alta disponibilidade, a segurança para a aplicação*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *Abstergo Industries tem como esperado a economia com a alta disponibilidade, a segurança para a aplicação*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
